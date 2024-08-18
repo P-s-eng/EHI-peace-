@@ -1,0 +1,68 @@
+*{
+  padding:0;
+  margin:0;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
+}
+.ehi{
+  background: deeppink;
+  padding: 15px;
+color: white;
+border-radius: 15px;
+margin:10px;
+position: sticky;
+top:0;
+
+}
+
+.mind{
+  color: white ;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+span{
+  color: greenyellow ;
+}
+body{
+  background: #161616;
+}
+
+.peace{
+  color: white ;
+  margin-left: 20px;
+}
+.ene{
+  margin-top:30px;
+  display:flex;
+  flex-direction: column;
+  align-items: center ;
+  justify-content: center;
+}
+.solo{
+  color: white;
+  margin-top:20px;
+  margin-left:15px; 
+  }
+  .pat{
+    color: white;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  button{
+    background:deeppink;
+    color: chartreuse ;
+    margin-left: 10px;
+    font-family: sans-serif;
+    padding:5px;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+  }
+  .afr{
+    margin-top: 30px;
+    color: white;
+    margin-left: 15px;
+  }
